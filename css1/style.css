@@ -2543,12 +2543,10 @@ padding-left: 10px;
         flex-wrap: wrap;
     }  
 }
-<<<<<<< HEAD
-
 
 
 .hero{
-  display: flex; justify-content: center;align-items: center; padding-top: 100px; text-align: center;
+  display: flex;justify-items: center;align-items: center;  padding-top: 90px; text-align: center;
 }
 
 @media(max-width:480px){
@@ -2560,5 +2558,4 @@ padding-left: 10px;
         flex-wrap: wrap;
     }  
 }
-=======
->>>>>>> 873db2f634040ca6dbdbc2e2ee9f0db3525fde69
+
